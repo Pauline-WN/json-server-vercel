@@ -1,9 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "MyTasks": [
+    {
+      "id": "05c2",
+      "TaskName": "Complete my labs (Due: 2024-07-26)",
+      "Completed": true
+    },
+    {
+      "id": "8fdc",
+      "TaskName": "Water the plants",
+      "Completed": true
+    },
+    {
+      "id": "554f",
+      "TaskName": "Vacuum the floors",
+      "Completed": true
+    }
+  ]
 }
